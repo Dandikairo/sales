@@ -1,5 +1,5 @@
 
-package com.adrotltd.sales;
+package com.adroitltd.sales;
 
 /**
  *

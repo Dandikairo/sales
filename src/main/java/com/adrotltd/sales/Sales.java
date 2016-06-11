@@ -1,5 +1,5 @@
 
-package com.adrotltd.sales;
+package com.adroitltd.sales;
 
 import com.adroitltd.metadata.MenuGroup;
 import com.adroitltd.metadata.MenuItem;
